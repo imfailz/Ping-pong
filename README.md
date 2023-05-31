@@ -18,3 +18,20 @@ _наберите 10 очков раньше, чем ваш соперник!_
 -
 - Игрок №1 управляет клавишами **w** (вверх) и **s** (вниз)
 - Игрок №2 управляет клавишами **p** (вверх) и **l** (вниз)
+
+
+
+Интерфейс игры:
+-
+
+![Стартовый экран](https://github.com/imfailz/ping-pong/raw/master/start.jpg)
+
+
+![Игра](https://github.com/imfailz/ping-pong/raw/master/screen.jpg)
+
+
+![Победа](https://github.com/imfailz/ping-pong/raw/master/win.jpg)
+
+
+**_Приятной игры!_**
+-
